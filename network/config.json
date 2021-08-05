@@ -8,19 +8,19 @@
     "text": "Yuwei Zhou"
   },
   "text": {
-    "more": "Test test test",
+    "more": "This is a test!",
     "intro": "testtest",
-    "title": "test1"
+    "title": "HNR Workshop data"
   },
   "legend": {
     "edgeLabel": "Connection",
-    "colorLabel": "Ineratration nature",
-    "nodeLabel": "Name"
+    "colorLabel": "Community Modularity",
+    "nodeLabel": "Person"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
